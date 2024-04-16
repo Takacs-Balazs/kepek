@@ -1,0 +1,13 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    grid-gap: 15px;
+    padding: 15px;
+  }
+  
+.grid-item {
+    background-size: cover;
+    background-position: center;
+    height: 220px;
+  }
+  

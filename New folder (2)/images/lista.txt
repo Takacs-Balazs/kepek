@@ -1,0 +1,9 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D4A5-EC81
+
+ Directory of C:\Users\szabo.tamas\Desktop\kh\images
+
+[.]              [..]             lista.txt        Pain PNG 2.png
+Pain PNG 3.png   Pain PNG 4.png   
+               4 File(s)      2ÿ982ÿ963 bytes
+               2 Dir(s)  361ÿ802ÿ686ÿ464 bytes free
